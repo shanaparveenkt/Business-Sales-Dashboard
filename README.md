@@ -90,7 +90,6 @@ The dataset contains structured business sales records with the following featur
 
 ## 📈 Dashboard Preview
 
-(Add your dashboard screenshot here)
 
 Example:
 ![Dashboard](dashboard.png)
