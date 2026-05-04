@@ -1,7 +1,5 @@
 # 📊 Business Sales Intelligence Dashboard with Predictive Analytics
 
-## 🚀 Project Overview
-
 This project presents an end-to-end data analytics solution for analyzing business sales performance and predicting future sales trends. It combines data preprocessing, exploratory data analysis (EDA), machine learning, and dashboard visualization to generate actionable business insights.
 
 The goal of this project is to simulate a real-world Business Intelligence (BI) workflow by transforming raw sales data into meaningful insights that support data-driven decision-making.
@@ -108,7 +106,7 @@ Example:
 ## 🔗 Project Structure
 
 * `Business_sales_data.csv` → Dataset
-* `sales_analysis.ipynb` → Python code (EDA + ML model)
+* `BUSINESS_SALES_INTELLIGENCE_DASHBOARD.ipynb` → Python code (EDA + ML model)
 * `dashboard.png` → Dashboard preview
 * `README.md` → Project documentation
 
